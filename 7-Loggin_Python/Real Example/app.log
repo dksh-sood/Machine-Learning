@@ -1,0 +1,11 @@
+2025-10-29 23:39:42 - root - DEBUG - the addition function is called
+2025-10-29 23:39:42 - root - DEBUG - the addition operation is taking place
+2025-10-30 00:07:44 - ArithmrticApp - DEBUG - Adding 10 + 15 = 25
+2025-10-30 00:07:44 - ArithmrticApp - DEBUG - Subtracting 15 - 10 = 5
+2025-10-30 00:07:44 - ArithmrticApp - DEBUG - Multiplying 10 * 20 = 200
+2025-10-30 00:07:44 - ArithmrticApp - DEBUG - Dividing 10 / 2 = 5.0
+2025-10-30 00:07:44 - ArithmrticApp - ERROR - Division by zero error
+2025-10-30 00:08:12 - ArithmrticApp - DEBUG - Adding 10 + 15 = 25
+2025-10-30 00:08:12 - ArithmrticApp - DEBUG - Subtracting 15 - 10 = 5
+2025-10-30 00:08:12 - ArithmrticApp - DEBUG - Multiplying 10 * 20 = 200
+2025-10-30 00:08:12 - ArithmrticApp - DEBUG - Dividing 10 / 2 = 5.0

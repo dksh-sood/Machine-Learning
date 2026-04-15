@@ -1,0 +1,5 @@
+hello guys , lets make rock
+dw guys , iam there to help u out/n iam appending the new line in this file using the append mode
+ iam appending the new line in this file using the append modefirst line 
+ second line 
+third line 

@@ -1,0 +1,2 @@
+This is a protected file.
+You should not be able to read it without proper permissions.

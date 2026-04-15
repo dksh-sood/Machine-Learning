@@ -1,0 +1,11 @@
+this is (shruti)data.txt file
+hello every (shruti)one my name is shruti sood,
+iam in third (shruti)year or btech in ai & ds,
+passionate about (shruti) the technologies and the logic building
+hello every one my name is daksh sood,
+iam in third year or btech in ai & ds,
+passionate about the technologies and the logic buildingHello Buddy
+What are you doing bro?
+After running this code, the data from sample.txt will be copied into destination.txt
+Would you like me to show how to check if both files now have the same content (to verify the copy)?
+Hi iam dishu
